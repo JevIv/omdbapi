@@ -1,0 +1,13 @@
+body {
+  background: #141414;
+}
+
+.movie-app > .row {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+html {
+  scroll-behavior: smooth;
+}
