@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/omdbapi/static/css/main.32958bf9.css",
+    "main.js": "/omdbapi/static/js/main.9c66c0cb.js",
+    "index.html": "/omdbapi/index.html",
+    "main.32958bf9.css.map": "/omdbapi/static/css/main.32958bf9.css.map",
+    "main.9c66c0cb.js.map": "/omdbapi/static/js/main.9c66c0cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32958bf9.css",
+    "static/js/main.9c66c0cb.js"
+  ]
+}
